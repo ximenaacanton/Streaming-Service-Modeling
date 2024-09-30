@@ -42,5 +42,5 @@ Completed
 ### Other Information
 - **Author:** Ximena Canton  
 - **Contact:** ximenacantonn@gmail.com   
-- **Social Media:** www.linkedin.com/in/ximenacanton07  
+- **Social Media:** https://www.linkedin.com/in/ximenacanton07/  
 - **Contributions:** If you'd like to contribute to this project, please fork the repository and submit a pull request.
