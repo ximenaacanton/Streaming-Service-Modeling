@@ -1,0 +1,9 @@
+p,20191245,The Lion King,118,drama
+c,20160150-S02E09,Chapter Nine: The Gate,62,accion,Stranger Things T2,9
+p,20191246,The Lion King 2,109,drama
+c,20160150-S02E10,Chapter Ten: The Golden,65,accion,Stranger Things T2,10
+p,20200101,Inception,148,scifi
+c,20180101-S03E01,Chapter One: Suzie: Do You Copy,51,accion,Stranger Things T3,1
+p,20190001,Avengers: Endgame,181,accion
+c,20170101-S01E01,Chapter One: The Vanishing of Will Byers,47,accion,Stranger Things T1,1
+p,20210001,Dune,155,scifi
